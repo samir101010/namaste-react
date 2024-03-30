@@ -1,0 +1,16 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "this is Namaste React by samir chanda",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/samir101010/namaste-react.git)"
+  },
+  "keywords": [],
+  "author": "Samir Chanda",
+  "license": "ISC"
+}
